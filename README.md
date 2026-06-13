@@ -9,7 +9,6 @@
 <br/>
 
 <a href="https://www.instagram.com/jais.the.crazy.NINJA"><img src="https://img.shields.io/badge/Instagram-jais.the.crazy.NINJA-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/></a>
-<a href="https://twitter.com/jais1"><img src="https://img.shields.io/badge/X-@jais1-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" alt="X/Twitter"/></a>
 <a href="https://linkedin.com/in/jaisbygebjerg"><img src="https://img.shields.io/badge/LinkedIn-jaisbygebjerg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/></a>
 
 </div>
