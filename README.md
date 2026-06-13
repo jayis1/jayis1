@@ -32,18 +32,6 @@ class jayis1:
 
 </div>
 
----
-
-## 🌍 Currently Building From
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=%F0%9F%87%A9%F0%9F%87%B0%20Copenhagen%2C%20Denmark%20%C2%B7%20UTC%2B2&fontSize=18&fontColor=c9d1d9&desc=&" width="100%"/>
-
-</div>
-
----
-
 ## ⚡ What I Build
 
 <table>
