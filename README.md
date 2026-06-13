@@ -1,125 +1,122 @@
 <div align="center">
 
-<!-- ASCII Art Banner -->
-<pre>
- ██╗██╗  ██╗███████╗██╗  ██╗██╗██╗  ██╗
- ██║██║ ██╔╝██╔════╝██║  ██║██║██║ ██╔╝
- ██║█████╔╝ █████╗  ███████║██║█████╔╝ 
- ██║██╔═██╗ ██╔══╝  ██╔══██║██║██╔═██╗
- ██║██║  ██╗███████╗██║  ██║██║██║  ██╗
- ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:c026d3,100:6366f1&height=180&section=header&text=JAYIS1&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Hacker%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=20&descAlignY=55" width="100%"/>
 
-# 🚀 jayis1
-
-**Hacker · Builder · AI-Assisted Creator**
-
-*I build things that build things. Hardware, software, and everything in between — powered by AI agents that never sleep.*
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/jayis1?style=for-the-badge&logo=github&logoColor=white&labelColor=333&color=e94560)](https://github.com/jayis1?tab=followers)
-[![Repos](https://img.shields.io/badge/40-Repos-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=333)](https://github.com/jayis1?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/jayis1?style=for-the-badge&logo=starship&logoColor=white&labelColor=333&color=gold)](https://github.com/jayis1?tab=stars)
-
-<br/>
+[![GitHub followers](https://img.shields.io/github/followers/jayis1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=e94560)](https://github.com/jayis1?tab=followers)
+[![Repos](https://img.shields.io/badge/40-Repos-c026d3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/jayis1?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/jayis1?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e&color=gold)](https://github.com/jayis1?tab=stars)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
 ```python
-class Jayis1:
-    def __init__(self):
-        self.focus = ["hardware_design", "ai_agents", "creative_coding", "reverse_engineering"]
-        self.tools = ["python", "c", "java", "javascript", "shell", "kicad"]
-        self.philosophy = "If it doesn't exist yet, build it. If it exists, improve it."
-        self.currently = "Running autonomous AI coding pipelines 24/7"
+class jayis1:
+    focus   = ["hardware", "creative_code", "reverse_eng", "embedded"]
+    stack   = ["python", "c", "java", "js", "shell", "kicad"]
+    motto   = "build what doesn't exist · hack what does"
+    running = "24/7 autonomous build pipeline"
 ```
 
-- 🔧 **Hardware Hacker** — Full-cycle device design from schematics to firmware to software
-- 🤖 **AI Agent Architect** — Autonomous pipelines that invent, code, test, and ship
-- 🎮 **Creative Coder** — Ray marchers, fluid sims, procedural generators, and esoteric langs
-- 📱 **Android Tinkerer** — Custom launchers, ROM development, kernel trees
-- 📡 **Phone Phreaker** — AI voice interfaces over SIP/FreePBX
+</div>
 
 ---
 
-## 🏆 Top Projects
+## ⚡ What I Build
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🖥️ Zero-Day-OS
+### 🔮 Zero-Day-OS
 [![Stars](https://img.shields.io/github/stars/jayis1/Zero-Day-OS-?style=social)](https://github.com/jayis1/Zero-Day-OS-)
 
-OS for the M5Stack CardPuter Zero. Custom shell, WiFi tools, and hardware hacking toolkit in your pocket. **10 forks** — the community is building on it.
+Custom OS for the M5Stack CardPuter Zero. Pocket-sized hacking workstation with WiFi tools, custom shell, and hardware utilities. **10 forks** — people are building on this.
 
-`Shell` `ESP32` `M5Stack`
+`Shell` `ESP32` `M5Stack` `Embedded`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌊 Creative Projects
-[![Repo](https://img.shields.io/badge/repo-creative--projects-blue?style=flat-square&logo=github)](https://github.com/jayis1/creative-projects)
+[![Repo](https://img.shields.io/badge/repo-creative--projects-6366f1?style=flat-square&logo=github)](https://github.com/jayis1/creative-projects)
 
-AI-generated monorepo. Every 7 hours an agent invents a complex project, enhances it, bug-hunts it, and pushes it. Currently shipping:
+A living monorepo. New projects land every 7 hours — invented, enhanced, and battle-tested before they ship. Currently packing:
 
-- 🌊 **Lattice Boltzmann Fluid Sim** — D2Q9 LBM with real-time visualization
-- 🌿 **L-System Renderer** — Fractal & plant generation with SVG output
-- 🔮 **SDF Ray Marcher** — Pure Python PBR rendering, reflections & glass
-- 🎲 **WFC Generator** — Wave Function Collapse procedural generation
+🌊 **Lattice Boltzmann Fluid Sim** — D2Q9 real-time fluid dynamics  
+🌿 **L-System Renderer** — Fractal generation & SVG output  
+🔮 **SDF Ray Marcher** — Pure Python PBR with glass & shadows  
+🎲 **WFC Generator** — Procedural worlds from constraint collapse  
 
-`Python` `AI-Agent` `Monorepo`
+`Python` `Simulation` `Graphics` `Generative`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📱 Nova Launcher
-[![Repo](https://img.shields.io/badge/repo-nova--launcher-orange?style=flat-square&logo=android)](https://github.com/jayis1/nova-launcher)
+[![Repo](https://img.shields.io/badge/repo-nova--launcher-ff6b35?style=flat-square&logo=android)](https://github.com/jayis1/nova-launcher)
 
-Custom Android home screen launcher. 5-page layout: system monitor, smart hub, quick actions, X11 desktop, and media commander. Pure Java + Android SDK.
+Custom Android home screen launcher — 5 pages: system monitor, smart hub, quick actions, X11 desktop, and media commander. Pure Java, no frameworks.
 
-`Java` `Android` `UI`
+`Java` `Android SDK` `UI` `System`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔓 Hacker Devices
-[![Repo](https://img.shields.io/badge/repo-hacker--devices-red?style=flat-square&logo=wireshark)](https://github.com/jayis1/hacker-devices)
+[![Repo](https://img.shields.io/badge/repo-hacker--devices-e94560?style=flat-square&logo=wireshark)](https://github.com/jayis1/hacker-devices)
 
-Full-cycle hardware designs for security research. RF transceiver tool + WiFi pentest dongle — schematics, PCB layout, firmware, and mobile app, all in one repo.
+Full-cycle security research hardware. RF transceiver + WiFi pentest dongle — from KiCad schematics through firmware to mobile app. Build it, flash it, own the airwaves.
 
-`C` `KiCad` `ESP32` `Security`
+`C` `KiCad` `ESP32` `RF` `Security`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏠 Devices
-[![Repo](https://img.shields.io/badge/repo-Devices-green?style=flat-square&logo=homeassistant)](https://github.com/jayis1/Devices)
+[![Repo](https://img.shields.io/badge/repo-Devices-22c55e?style=flat-square&logo=homeassistant)](https://github.com/jayis1/Devices)
 
-Complex hardware+software device systems that improve daily life. Multi-node mesh: AquaGuard water quality + HearthKeep smart climate. Full stack from firmware to ML pipeline.
+Multi-node IoT systems that improve daily life. **AquaGuard** monitors water quality. **HearthKeep** manages smart climate. Full stack: firmware → mesh protocol → ML dashboard → mobile app.
 
-`C` `ESP32` `ML` `IoT`
+`C` `ESP32` `ML` `IoT` `Mesh`
+
+</td>
+<td width="50%">
+
+### 📞 Gemini Phone
+[![Repo](https://img.shields.io/badge/repo-gemini--phone-8b5cf6?style=flat-square&logo=asterisk)](https://github.com/jayis1/unified-gemini-docker-phone)
+
+Voice interface over SIP/FreePBX. Call your agent, your agent calls you. Full Docker stack — one command and it's running.
+
+`JavaScript` `Docker` `SIP` `VoIP`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 Gemini Phone
-[![Repo](https://img.shields.io/badge/repo-gemini--phone-purple?style=flat-square&logo=asterisk)](https://github.com/jayis1/unified-gemini-docker-phone)
+### 👾 Zorp Wiggles
+[![Repo](https://img.shields.io/badge/repo-zorp--wiggles-f59e0b?style=flat-square&logo=gamejolt)](https://github.com/jayis1/zorp-wiggles-alien-adventure)
 
-Voice interface for Gemini via FreePBX/Asterisk SIP. Call your AI, and your AI can call you. Dockerized for one-command deployment.
+You are Zorp — a squishy alien in an open world. Collect weird stuff, complete bonkers missions, blast enemies with your tentacle laser. Gets better every 10 hours.
 
-`JavaScript` `Docker` `SIP` `AI`
+`Python` `Game` `Roguelike` `Procedural`
+
+</td>
+<td width="50%">
+
+### 🎵 Discord Music Bots
+[![Repo](https://img.shields.io/badge/repo-music--bots-ec4899?style=flat-square&logo=discord)](https://github.com/jayis1/the-Dj-music-bot)
+
+Fast streaming music bot for Discord. Multiple iterations — from the original to the optimized v6, with Ollama integration for smart commands.
+
+`Python` `Discord` `Music` `Bot`
 
 </td>
 </tr>
@@ -127,85 +124,71 @@ Voice interface for Gemini via FreePBX/Asterisk SIP. Call your AI, and your AI c
 
 ---
 
-## 🤖 Autonomous AI Pipeline
+## 🔄 The Build Pipeline
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    🤖 CREATIVE CODER PIPELINE                │
-│                                                              │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐              │
-│  │  INVENT   │───▶│ ENHANCE  │───▶│ BUG HUNT │              │
-│  │  New idea │    │ Features  │    │  & Fix   │              │
-│  └──────────┘    └──────────┘    └──────────┘              │
-│        │                                  │                  │
-│        ▼                                  ▼                  │
-│  ┌──────────┐                     ┌──────────┐              │
-│  │  PUSH    │                     │ IMPROVE  │              │
-│  │ to repo  │                     │ +1 hour  │              │
-│  └──────────┘                     └──────────┘              │
-│                                                              │
-│  Every 7 hours → new project → enhance → bug hunt → improve │
-│  All projects live in: github.com/jayis1/creative-projects   │
-└─────────────────────────────────────────────────────────────┘
-```
+<pre>
+  ┌─────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
+  │  💡 IDEA  │────▶│  🔧 BUILD  │────▶│  🐛 HUNT   │────▶│  ⚡ POLISH │
+  │  invent   │     │  code+enh │     │  bug fix  │     │  ship it  │
+  └─────────┘     └──────────┘     └──────────┘     └──────────┘
+       │                                                  │
+       │              every 7 hours                       │
+       └──────────────────────────────────────────────────┘
+                             ▼
+                github.com/jayis1/creative-projects
+</pre>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Arsenal
 
 <div align="center">
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-18 repos-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-7 repos-F7DF1E?style=flat-square&logo=javascript) ![C](https://img.shields.io/badge/C-4 repos-A8B9CC?style=flat-square&logo=c) ![Java](https://img.shields.io/badge/Java-1 repo-ED8B00?style=flat-square&logo=openjdk) ![Shell](https://img.shields.io/badge/Shell-1 repo-4EAA25?style=flat-square&logo=gnometerminal) ![C++](https://img.shields.io/badge/C++-1 repo-00599C?style=flat-square&logo=cplusplus) |
-| **Hardware** | KiCad · ESP32 · STM32 · M5Stack · RP2040 |
-| **AI / Agents** | Hermes Agent · Ollama · Gemini API · OpenRouter |
-| **Mobile** | Android SDK · Java · SIP/VoIP |
-| **DevOps** | Docker · GitHub Actions · Git |
-| **Security** | Wireshark · RF analysis · WiFi pentesting |
+| Domain | Tools |
+|--------|-------|
+| **Code** | ![Python](https://img.shields.io/badge/Python-18-e94560?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JS-7-f7df1e?style=flat-square&logo=javascript) ![C](https://img.shields.io/badge/C-4-a8b9cc?style=flat-square&logo=c) ![Java](https://img.shields.io/badge/Java-1-ed8b00?style=flat-square&logo=openjdk) ![Shell](https://img.shields.io/badge/Shell-1-4eaa25?style=flat-square&logo=gnometerminal) ![C++](https://img.shields.io/badge/C++-1-00599c?style=flat-square&logo=cplusplus) |
+| **Hardware** | KiCad · ESP32 · STM32 · M5Stack · RP2040 · CC1101 · NRF24L01 |
+| **Mobile** | Android SDK · SIP/VoIP · FreePBX |
+| **Infra** | Docker · GitHub Actions · Git |
+| **Security** | RF analysis · WiFi pentesting · Firmware reverse engineering |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayis1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jayis1&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jayis1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=c026d3&text_color=c9d1d9&ring_color=6366f1" alt="Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jayis1&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=c026d3&fire=6366f1&currStreakLabel=e94560" alt="Streak" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayis1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayis1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" alt="Languages" width="55%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jayis1&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5&row=1" alt="Trophies" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jayis1&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
-
-</div>
-
----
-
-## 📡 Reach Out
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-jayis1-181717?style=for-the-badge&logo=github)](https://github.com/jayis1)
+<a href="https://github.com/jayis1">
+<img src="https://img.shields.io/badge/GitHub-jayis1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e94560&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:c026d3,100:6366f1&height=100&section=footer" width="100%"/>
 
 </div>
