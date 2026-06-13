@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:c026d3,100:6366f1&height=180&section=header&text=JAYIS1&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Hacker%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:c026d3,100:6366f1&height=200&section=header&text=JAYIS1&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Hacker%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=20&descAlignY=55" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/jayis1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=e94560)](https://github.com/jayis1?tab=followers)
 [![Repos](https://img.shields.io/badge/40-Repos-c026d3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/jayis1?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/jayis1?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e&color=gold)](https://github.com/jayis1?tab=stars)
+
+<br/>
+
+<a href="https://www.instagram.com/jais.the.crazy.NINJA"><img src="https://img.shields.io/badge/Instagram-jais.the.crazy.NINJA-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/></a>
+<a href="https://twitter.com/jais1"><img src="https://img.shields.io/badge/X-@jais1-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" alt="X/Twitter"/></a>
+<a href="https://linkedin.com/in/jaisbygebjerg"><img src="https://img.shields.io/badge/LinkedIn-jaisbygebjerg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/></a>
 
 </div>
 
@@ -14,11 +20,25 @@
 
 ```python
 class jayis1:
+    name    = "Jais"
+    loc     = "Copenhagen, Denmark 🇩🇰"
+    tz      = "UTC+2"
     focus   = ["hardware", "creative_code", "reverse_eng", "embedded"]
     stack   = ["python", "c", "java", "js", "shell", "kicad"]
     motto   = "build what doesn't exist · hack what does"
     running = "24/7 autonomous build pipeline"
+    ninja   = True  # certified 🥷
 ```
+
+</div>
+
+---
+
+## 🌍 Currently Building From
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=%F0%9F%87%A9%F0%9F%87%B0%20Copenhagen%2C%20Denmark%20%C2%B7%20UTC%2B2&fontSize=18&fontColor=c9d1d9&desc=&" width="100%"/>
 
 </div>
 
@@ -160,6 +180,30 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 
 ---
 
+## 🥷 The Ninja Zone
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🇩🇰-Copenhagen-e94560?style=for-the-badge&labelColor=1a1a2e" alt="Copenhagen"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🕐-UTC%2B2-c026d3?style=for-the-badge&labelColor=1a1a2e" alt="UTC+2"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🥷-Crazy_Ninja-6366f1?style=for-the-badge&labelColor=1a1a2e" alt="Ninja"/></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0d1117" alt="Joke" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=jayis1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Contributions"/>
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
@@ -183,9 +227,10 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 
 <div align="center">
 
-<a href="https://github.com/jayis1">
-<img src="https://img.shields.io/badge/GitHub-jayis1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://www.instagram.com/jais.the.crazy.NINJA"><img src="https://img.shields.io/badge/Instagram-jais.the.crazy.NINJA-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/></a>
+<a href="https://twitter.com/jais1"><img src="https://img.shields.io/badge/X-@jais1-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" alt="X"/></a>
+<a href="https://linkedin.com/in/jaisbygebjerg"><img src="https://img.shields.io/badge/LinkedIn-jaisbygebjerg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/></a>
+<a href="https://github.com/jayis1"><img src="https://img.shields.io/badge/GitHub-jayis1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/></a>
 
 <br/><br/>
 
