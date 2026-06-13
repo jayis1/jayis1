@@ -20,17 +20,15 @@
 
 ```
     ╔═══════════════════════════════════════════════════════════════════╗
-    ║                                                                   ║
-    ║   class jayis1:                                                   ║
-    ║       name    = "Jais"                                            ║
-    ║       loc     = "Copenhagen, Denmark 🇩🇰"                         ║
-    ║       tz      = "UTC+2"                                           ║
-    ║       focus   = ["hardware", "creative_code", "reverse_eng"]     ║
-    ║       stack   = ["python", "c", "java", "js", "shell", "kicad"]  ║
-    ║       motto   = "build what doesn't exist · hack what does"      ║
-    ║       running = "24/7 autonomous build pipeline"                  ║
-    ║       ninja   = True  # certified 🥷                              ║
-    ║                                                                   ║
+    ║  class jayis1:                                                   ║
+    ║      name    = "Jais"                                            ║
+    ║      loc     = "Copenhagen, Denmark 🇩🇰"                           ║
+    ║      tz      = "UTC+2"                                           ║
+    ║      focus   = ["hardware", "creative_code", "reverse_eng"]     ║
+    ║      stack   = ["python", "c", "java", "js", "shell", "kicad"]  ║
+    ║      motto   = "build what doesn't exist · hack what does"       ║
+    ║      running = "24/7 autonomous build pipeline"                  ║
+    ║      ninja   = True  # certified 🥷                              ║
     ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -38,147 +36,21 @@
 
 ---
 
-## 🐉 The Terminal
+## 🎬 Live from the Terminal
 
 <div align="center">
 
-<pre>
- ██████╗ █████╗ ████████╗████████╗███████╗██████╗ ███╗   ███╗
-██╔════╝██╔══██╗╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-██║     ███████║   ██║      ██║   █████╗  ██████╔╝██╔████╔██║
-██║     ██╔══██║   ██║      ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║
-╚██████╗██║  ██║   ██║      ██║   ███████╗██║  ██║██║ ╚═╝ ██║
- ╚═════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-</pre>
+<img src="https://raw.githubusercontent.com/jayis1/jayis1/main/terminal-hack.gif" alt="Terminal Hack" width="49%"/>
+<img src="https://raw.githubusercontent.com/jayis1/jayis1/main/hacker-bars.gif" alt="Hacker Bars" width="49%"/>
 
-<details>
-<summary>🥷 <b>Press to hack the mainframe...</b></summary>
-<br/>
+<br/><br/>
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────┐
-│  jayis1@mainframe:~$ sudo hack --mode=ninja --target=the-world       │
-│                                                                      │
-│  [████████████████████████████████] 100%  ACCESS GRANTED             │
-│                                                                      │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-│                                                                      │
-│  > Scanning Copenhagen subnet........ 4096 hosts found               │
-│  > Cracking firmware................. ESP32 ⊕ STM32 ⊕ RP2040       │
-│  > Loading creative payloads......... 7 new projects queued         │
-│  > Deploying build pipeline.......... ████████████░░░ 83%          │
-│  > Compiling raymarcher............... done ✓                        │
-│  > Simulating fluid dynamics......... done ✓                        │
-│  > Generating fractal worlds......... done ✓                        │
-│  > Collapsing wave functions......... done ✓                        │
-│                                                                      │
-│  jayis1@mainframe:~$ echo $STATUS                                    │
-│  >> SHIPPING CODE FROM COPENHAGEN SINCE 2022 🇩🇰                     │
-│                                                                      │
-│  jayis1@mainframe:~$ _                                               │
-└──────────────────────────────────────────────────────────────────────┘
-</pre>
-
-</details>
-
-<details>
-<summary>🐉 <b>Summon the dragon...</b></summary>
-<br/>
-
-<pre>
-                              __        _
-                            _ /  \    _//|
-                           / \  |   _/  /
-                          |   \ \_/  /  /
-                           \   |   _/  /
-                            \  |  /  _/
-                             \ | /  /
-                   __\        \|/  /____
-                 /`   \        |  /     `\
-                /  |   \_______|_/  |     \
-               /   |    |     |    |      \
-              |    |    |     |    |       |
-              |    |    |_____|    |       |
-               \   |    |     |    |      /
-                \  |    |     |    |     /
-                 `|    |     |    |    '
-                   \   |     |   |   /
-                    \  |     |   |  /
-                     \ |     |   | /
-                      \|     |   |/
-                       |_____|___|
-                       |     |   |
-                       |_____.___|
-                      /|     |   |\
-                     / |_____|___| \
-                    /  /:::::|:::\  \
-                   /  /::::::|::::\  \
-                  /__/=======\=====\__\
-</pre>
-
-</details>
-
-<details>
-<summary>🧬 <b>Decode the matrix...</b></summary>
-<br/>
-
-<pre>
-    01001010 01000001 01011001 01001001 01010011 00110001
-    ╔═══════════════════════════════════════════════════╗
-    ║  ┏━┓┏━┓┏━┓┏━┓╋  ╋  ┏━┓┏━┓┏━┓┏━┓              ║
-    ║  ┃╋┃┃╋┃┃ ╗┣━┫╋  ╋  ┃╋┃┃ ╗┣━┫┃ ╗              ║
-    ║  ┗━┛┗━┛┗━┛┗━┛━━━┛  ┗━┛┗━┛┗━┛┗━┛              ║
-    ║                                                   ║
-    ║  ░▒▓█ FULL STACK OVERDRIVE █▓▒░                  ║
-    ║                                                   ║
-    ║  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ║
-    ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-    ║  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   ║
-    ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ║
-    ║  ██████████████████████████████████████████████   ║
-    ║                                                   ║
-    ║  ◈ HARDWARE  ◈ SOFTWARE  ◈ SECURITY  ◈ CREATIVE ◈║
-    ║                                                   ║
-    ╚═══════════════════════════════════════════════════╝
-    01100001 01101001 01110011 00110001 00101110 01101110
-</pre>
-
-</details>
-
-<details>
-<summary>🚀 <b>Launch sequence...</b></summary>
-<br/>
-
-<pre>
-        .
-       /|\
-      / | \
-     /  |  \
-    /   |   \
-   /    |    \
-  /  JAYIS1  \
- /___  |  ____\
-     \ | /
-      \|/
-       v
-    ─────────────
-   ╱              ╲
-  ╱   3... 2... 1  ╲
- ╱    LAUNCH 🚀     ╲
- ╱___________________╲
-  │  ▓▓▓▓▓▓▓▓▓▓▓▓  │
-  │  ░░░░░░░░░░░░  │
-  │  ▒▒▒▒▒▒▒▒▒▒▒▒  │
-  │  COPENHAGEN DK  │
-  └─────────────────┘
-         │ │ │
-        ╱╲╱╲╱╲
-       🔥🔥🔥🔥🔥
-</pre>
-
-</details>
+<img src="https://raw.githubusercontent.com/jayis1/jayis1/main/matrix-rain.gif" alt="Matrix Rain" width="49%"/>
+<img src="https://raw.githubusercontent.com/jayis1/jayis1/main/pulse-orbit.gif" alt="Pulse Orbit" width="49%"/>
 
 </div>
+
+---
 
 ## ⚡ What I Build
 
