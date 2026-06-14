@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:c026d3,100:6366f1&height=200&section=header&text=JAYIS1&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Hacker%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=20&descAlignY=55" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/jayis1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=e94560)](https://github.com/jayis1?tab=followers)
-[![Repos](https://img.shields.io/badge/40-Repos-c026d3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/jayis1?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=c026d3&label=Repos&query=%22public_repos%22&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjayis1)](https://github.com/jayis1?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/jayis1?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e&color=gold)](https://github.com/jayis1?tab=stars)
 
 <br/>
@@ -105,22 +105,22 @@ Full-cycle security research hardware. RF transceiver + WiFi pentest dongle — 
 <tr>
 <td width="50%">
 
+### ⚔️ Apex One
+[![Repo](https://img.shields.io/badge/repo-apex--one-00ff88?style=flat-square&logo=raspberry-pi)](https://github.com/jayis1/apex-one)
+
+Dual-processor pentesting lab — RK3576 + RP2350B, LMS7002M SDR (100kHz–3.8GHz), CC1101 sub-GHz, ST25R3916 NFC, Wi-Fi 6E with packet injection. Full open-source: KiCad CAD, firmware, Linux drivers.
+
+`C` `KiCad` `RK3576` `RP2350B` `SDR`
+
+</td>
+<td width="50%">
+
 ### 🏠 Devices
 [![Repo](https://img.shields.io/badge/repo-Devices-22c55e?style=flat-square&logo=homeassistant)](https://github.com/jayis1/Devices)
 
 Multi-node IoT systems that improve daily life. **AquaGuard** monitors water quality. **HearthKeep** manages smart climate. Full stack: firmware → mesh protocol → ML dashboard → mobile app.
 
 `C` `ESP32` `ML` `IoT` `Mesh`
-
-</td>
-<td width="50%">
-
-### 📞 Gemini Phone
-[![Repo](https://img.shields.io/badge/repo-gemini--phone-8b5cf6?style=flat-square&logo=asterisk)](https://github.com/jayis1/unified-gemini-docker-phone)
-
-Voice interface over SIP/FreePBX. Call your agent, your agent calls you. Full Docker stack — one command and it's running.
-
-`JavaScript` `Docker` `SIP` `VoIP`
 
 </td>
 </tr>
@@ -162,8 +162,8 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
        │                                                  │
        │              every 7 hours                       │
        └──────────────────────────────────────────────────┘
-                             ▼
-                github.com/jayis1/creative-projects
+                            ▼
+               github.com/jayis1/creative-projects
 </pre>
 
 </div>
@@ -177,10 +177,10 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 | Domain | Tools |
 |--------|-------|
 | **Code** | ![Python](https://img.shields.io/badge/Python-18-e94560?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JS-7-f7df1e?style=flat-square&logo=javascript) ![C](https://img.shields.io/badge/C-4-a8b9cc?style=flat-square&logo=c) ![Java](https://img.shields.io/badge/Java-1-ed8b00?style=flat-square&logo=openjdk) ![Shell](https://img.shields.io/badge/Shell-1-4eaa25?style=flat-square&logo=gnometerminal) ![C++](https://img.shields.io/badge/C++-1-00599c?style=flat-square&logo=cplusplus) |
-| **Hardware** | KiCad · ESP32 · STM32 · M5Stack · RP2040 · CC1101 · NRF24L01 |
+| **Hardware** | KiCad · ESP32 · STM32 · M5Stack · RP2040 · RP2350B · RK3576 · CC1101 · LMS7002M |
 | **Mobile** | Android SDK · SIP/VoIP · FreePBX |
 | **Infra** | Docker · GitHub Actions · Git |
-| **Security** | RF analysis · WiFi pentesting · Firmware reverse engineering |
+| **Security** | RF analysis · WiFi pentesting · SDR · Firmware reverse engineering |
 
 </div>
 
@@ -220,12 +220,6 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayis1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" alt="Languages" width="55%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jayis1&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5&row=1" alt="Trophies" />
 
 </div>
 
