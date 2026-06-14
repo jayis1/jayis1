@@ -1,21 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:c026d3,100:6366f1&height=200&section=header&text=JAYIS1&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Hacker%20%C2%B7%20Builder%20%C2%B7%20Creator&descSize=20&descAlignY=55" width="100%"/>
-
-[![GitHub followers](https://img.shields.io/github/followers/jayis1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=e94560)](https://github.com/jayis1?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=c026d3&label=Repos&query=%22public_repos%22&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjayis1)](https://github.com/jayis1?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/jayis1?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e&color=gold)](https://github.com/jayis1?tab=stars)
-
-<br/>
-
-<a href="https://www.youtube.com/@jais1"><img src="https://img.shields.io/badge/YouTube-@jais1-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e" alt="YouTube"/></a>
-
-</div>
-
----
-
-<div align="center">
-
 ```
     ╔═══════════════════════════════════════════════════════════════════╗
     ║  class jayis1:                                                   ║
