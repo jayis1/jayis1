@@ -174,7 +174,6 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🇩🇰-Copenhagen-e94560?style=for-the-badge&labelColor=1a1a2e" alt="Copenhagen"/></td>
 <td align="center"><img src="https://img.shields.io/badge/🕐-UTC%2B2-c026d3?style=for-the-badge&labelColor=1a1a2e" alt="UTC+2"/></td>
 <td align="center"><img src="https://img.shields.io/badge/🥷-Crazy_Ninja-6366f1?style=for-the-badge&labelColor=1a1a2e" alt="Ninja"/></td>
 </tr>
