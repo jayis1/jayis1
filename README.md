@@ -191,18 +191,7 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jayis1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=c026d3&text_color=c9d1d9&ring_color=6366f1" alt="Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jayis1&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=c026d3&fire=6366f1&currStreakLabel=e94560" alt="Streak" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayis1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" alt="Languages" width="55%"/>
-
-</div>
+???
 
 ---
 
