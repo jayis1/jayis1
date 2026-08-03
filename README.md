@@ -185,7 +185,6 @@ Fast streaming music bot for Discord. Multiple iterations — from the original 
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=jayis1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Contributions"/>
 
 </div>
 
