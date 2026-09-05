@@ -41,7 +41,7 @@
 ### 🔮 Zero-Day-OS
 [![Stars](https://img.shields.io/github/stars/jayis1/Zero-Day-OS-?style=social)](https://github.com/jayis1/Zero-Day-OS-)
 
-Custom OS for the M5Stack CardPuter Zero. Pocket-sized hacking workstation with WiFi tools, custom shell, and hardware utilities. **10 forks** — people are building on this.
+Custom OS for the M5Stack CardPuter Zero. Pocket-sized hacking workstation with WiFi tools, custom shell, and hardware utilities. **10 forks** —.
 
 `Shell` `ESP32` `M5Stack` `Embedded`
 
